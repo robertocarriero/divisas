@@ -13,7 +13,7 @@
 
 *4- Introducir el monto que deseas convertir.*
 
-*5- El programa mostrará el valor convertido junto con la tasa de conversión actualizada.*
+*5- El programa mostrará el valor convertido junto con la fecha y horario que se realizó.*
 
 ## Ejemplo de ejecución ##
 
